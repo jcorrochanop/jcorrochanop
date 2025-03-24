@@ -30,7 +30,6 @@
     <td>
             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcorrochanop&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10&title_color=7A7ADB&text_color=D3D3D3&bg_color=130F40&v=1" />
 
-    </td>
   </tr>
 </table>
 
