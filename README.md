@@ -4,7 +4,6 @@
   <img align="right" src="https://github.com/jcorrochanop/jcorrochanop/blob/main/assets/Outlook-g14djrsd.gif?raw=true" width="250px">
 </picture>
 
-</br>
 <ul>
   <li>🎓 I'm a vocational student currently studying Multiplatform Application Development (DAM)</li>
   <li>💼 I'm doing my internship at Stemdo, where I'm gaining real-world experience</li>
