@@ -18,6 +18,7 @@
 <h2 style="font-size: 28px; font-weight: bold;">🤝 Connect With Me</h2>
 
 </br>
+</br>
 <p>
 <a href="https://www.linkedin.com/in/jos%C3%A9-corrochano-pardo-7846162b6/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 </br>
