@@ -15,6 +15,7 @@
   <li>🎯 I'm always looking for ways to grow both professionally and personally</li>
 </ul>
 
+</br>
 <h2>
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Github Stats
 </h2>
