@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi, I'm José Corrochano Pardo</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <picture> 
-  <img align="right" src="assets/Outlook-g14ddjrsgd.gif" width="250px">
+  <img align="right" src="https://github.com/jcorrochanop/jcorrochanop/blob/main/assets/Outlook-g14djrsd.gif?raw=true" width="250px">
 </picture>
 
 <ul>
